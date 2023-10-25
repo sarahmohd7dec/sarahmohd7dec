@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarahmohd7dec
 - 👀 I’m interested in new projects
 - 🌱 I’m currently learning python, powerBI,sql
-- 💞️ I’m looking to collaborate on ointeresting projects using python
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me :Connect with me on sarahmohd85@gmail.com
 
 <!---
